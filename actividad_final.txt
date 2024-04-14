@@ -1,0 +1,1 @@
+En esta actividad probaremos que contamos con el conocimiento básico de GIT, temas como el uso de clone, branches, commits y merge

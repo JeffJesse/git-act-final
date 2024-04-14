@@ -1,0 +1,5 @@
+function actualizarPantalla(valor){
+    DEPENDIENDO del botones_numericos Y del botones_operacionales Y del espacio_pantalla_resultado 
+        MOSTRAR el valor de la pantalla de resultado
+    FIN DEPENDIENDO
+}

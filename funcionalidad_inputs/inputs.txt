@@ -1,0 +1,19 @@
+function usarBotones (boton){
+    DEPENDE de boton:
+        CASO "numero":
+            ACTUALIZAR la pantalla de resultado
+        CASO "operacion":
+            ALMACENAR la operacion seleccionada
+                CASO "suma": 
+                    LLAMAR a sumar()
+                CASO "resta": 
+                    LLAMAR a resta()
+                CASO "multiplicacion": 
+                    LLAMAR a multiplicacion()
+                CASO "division":
+                    LLAMAR a dividir()
+                CASO "porcentaje":
+                    LLAMAR a calcPorcentaje()
+    FIN DEPENDE
+    DEPENDIENDO del botones_numericos Y del botones_operacionales Y del espacio_pantalla_resultado
+}

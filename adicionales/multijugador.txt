@@ -1,0 +1,5 @@
+let multijugador_estado_activo = true
+
+function iniciarMultijugador (){
+    INICIAR sesión de multijugador
+}

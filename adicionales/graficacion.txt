@@ -1,0 +1,9 @@
+let grafico_activado = true
+
+function graficar (datos){
+    SI grafico_activado ENTONCES
+        MMSTRAR grafico_con_los_datos
+    SINO
+        IMPRIMIR "La funcionalidad de graficacion aun no está disponible"
+}
+    

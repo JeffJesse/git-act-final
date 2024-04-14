@@ -1,0 +1,10 @@
+Definimos variables
+primerValor = 0
+segundoValor = 0
+
+function sumar (primerValor, segundoValor):
+    return primerValor + segundoValor;
+
+function restar (primerValor, segundoValor):
+    return primerValor - segundoValor;
+

@@ -1,0 +1,9 @@
+Definimos variables
+primerValor = 0
+segundoValor = 0
+
+function multiplicar (primerValor, segundoValor):
+    return primerValor * segundoValor
+
+function dividir (primerValor, segundoValor):
+    return primerValor / segundoValor

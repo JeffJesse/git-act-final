@@ -1,0 +1,6 @@
+Definimos variables
+primerValor = 0
+porcentaje = 0
+
+function calcPorcentaje (primerValor, porcentaje):
+    return primerValor * (porcentaje/100)

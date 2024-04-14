@@ -1,0 +1,5 @@
+let wifi_conectado = true
+
+function verificarWifi(){
+    return wifi_conectado
+}

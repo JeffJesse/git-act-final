@@ -6,4 +6,7 @@ function multiplicar (primerValor, segundoValor):
     return primerValor * segundoValor
 
 function dividir (primerValor, segundoValor):
-    return primerValor / segundoValor
+    SI segundoValor != 0 ENTONCES
+        return primerValor / segundoValor
+    SINO 
+        return 0
